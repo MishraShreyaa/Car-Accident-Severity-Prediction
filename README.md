@@ -62,3 +62,7 @@ Random Forest achieved the highest accuracy and was selected as the final model.
 - Hyperparameter Tuning
 - Real-time Prediction System
 - Streamlit Deployment
+## Dataset Source
+
+US Accidents Dataset:
+https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
